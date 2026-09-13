@@ -85,11 +85,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1ZED48_12y8aS2WLYG3dfmESEm6uacaAC
 *Demonstrates driving the rover around with WASD and toggling the headlights with SPACE.*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1FN0rrjdUKQOuCTAdPZUFNTyOxU4YkVNU
 
 ## Team Contributions
 - Albin Chacko: Rover hardware assembly, motor driver wiring, ESP8266 firmware (UDP listener, motor mixing, ACK/retry logic)
